@@ -1,0 +1,24 @@
+Project Plan
+Carpooling Website
+
+Vision:-
+To provide carpooling services to people within neighborhood of each other. To help them connect with each other making their daily trip to the office more feasible and economic.
+
+Users of the System:-
+•	Users
+•	Admin
+Technologies to be used:-
+JSP
+HTML
+SQL
+JAVA
+Tools to be used:-
+MySQL
+Dreamweaver
+Eclipse
+Process Model:-
+Waterfall Model
+How it will work:-
+Users will enter their pickup and drop point and their respective time.
+We will segregate initially on the basis of the area and then divide them into slots of 30 mins.
+Users allotted for the same car will be allotted each other’s numbers and can get in touch.
